@@ -1,2 +1,2 @@
 # latex-template
-Template para
+Template para trabalhos.
